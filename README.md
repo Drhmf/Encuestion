@@ -35,7 +35,7 @@ El núcleo del sistema está construido utilizando las últimas tecnologías del
 2. **Clonar Repositorio & Dependencias:**
    ```bash
    git clone <repository_url>
-   cd ENCUESTION2
+   cd ENCUESTION
    npm install
    ```
 
