@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ENCUESTION</string>
+    <string name="title_activity_main">ENCUESTION</string>
+    <string name="package_name">com.pollysync.encuestion</string>
+    <string name="custom_url_scheme">com.pollysync.encuestion</string>
+</resources>

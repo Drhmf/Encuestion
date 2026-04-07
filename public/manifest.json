@@ -1,0 +1,10 @@
+{
+  "name": "ENCUESTION Mobile",
+  "short_name": "ENCUESTION",
+  "description": "Sistema de ejecución para operadores de Encuestas Políticas.",
+  "start_url": "/surveyor",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": []
+}
